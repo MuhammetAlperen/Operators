@@ -10,18 +10,13 @@ namespace Birleştirme
     {
         static void Main(string[] args)
         {
-
-           
-
             Console.WriteLine("Adınızı Giriniz");
             string FırstName = Convert.ToString(Console.ReadLine());
 
             Console.WriteLine("Soyadınızı Giriniz");
             string LastName = Convert.ToString(Console.ReadLine());
 
-            Console.WriteLine("İsminiz :" + FırstName + LastName);
-
-
+            Console.WriteLine("İsminiz :" + "\t" + FırstName + " " + LastName);
 
             Console.ReadKey();
         }
