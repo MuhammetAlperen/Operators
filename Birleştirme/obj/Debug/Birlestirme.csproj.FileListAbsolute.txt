@@ -1,0 +1,6 @@
+C:\Users\stj74818\source\repos\Birleştirme\Birleştirme\bin\Debug\Birleştirme.exe.config
+C:\Users\stj74818\source\repos\Birleştirme\Birleştirme\bin\Debug\Birleştirme.exe
+C:\Users\stj74818\source\repos\Birleştirme\Birleştirme\bin\Debug\Birleştirme.pdb
+C:\Users\stj74818\source\repos\Birleştirme\Birleştirme\obj\Debug\Birlestirme.csproj.CoreCompileInputs.cache
+C:\Users\stj74818\source\repos\Birleştirme\Birleştirme\obj\Debug\Birleştirme.exe
+C:\Users\stj74818\source\repos\Birleştirme\Birleştirme\obj\Debug\Birleştirme.pdb
